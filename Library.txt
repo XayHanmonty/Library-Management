@@ -1,0 +1,357 @@
+Anna Karenina
+Leo Tolstoy
+9781593080273
+Romance
+2998448
+731329
+1
+The Great Gatsby
+F. Scott Fitzgerald
+9780743273565
+Fiction
+16608196
+4226004
+1
+The Seven Husbands of Evelyn Hugo
+Taylor Jenkins Reid
+9788416517275
+Fiction
+2837391
+637616
+1
+Into the Wild
+Jon Krakauer
+9780385486804
+Nonfiction
+3818031
+956900
+0
+The Diary of a Young Girl
+Anne Frank
+9780553296983
+Nonfiction
+12940081
+3103137
+1
+The Autobiography of Malcolm X
+Malcom X
+9780345350688
+Nonfiction
+1020652
+237361
+1
+The Girl on the Train
+Paula Hawkins
+9780857522313
+Thriller
+9463518
+2401908
+1
+Behind Closed Doors
+B.A. Paris
+9781250132369
+Thriller
+1497343
+378117
+1
+The Scarlet Letter
+Nathaniel Hawthorne
+9781435159655
+Fiction
+2604347
+761505
+1
+Great Ecpectations
+Charles Dickens
+9781435167193
+Fiction
+2680822
+707341
+1
+Wuthering Heights
+Emily Bronte
+9781912714070
+Romance
+5825442
+1494703
+1
+Jane Eyre
+Charlotte Bronte
+9781912714018
+Romance
+7331907
+1778270
+1
+Les Miserables
+Victor Hugo
+9780812974263
+Fiction
+3043073
+728008
+1
+A Tale of Two Cities
+Charles Dickens
+9781593081386
+Fiction
+3326559
+861803
+1
+War and Peace
+Leo Tolstoy
+9781593080730
+Fiction
+1196807
+289784
+1
+Something Deeply Hidden
+Sean Carroll
+9781524743017
+Nonfiction
+13305
+3249
+1
+Where the Crawdads Sing
+Delia Owens
+9780735219113
+Fiction
+6568050
+1472657
+1
+Pride and Prejudice
+Jane Austen
+9780141439518
+Romance
+14580060
+3414534
+1
+Agnes Grey
+Anne Bronte
+9781847497147
+Fiction
+2122245
+57358
+1
+A Brief History of Time
+Stephen Hawking
+9780553103748
+Nonfiction
+1496115
+357068
+1
+The Elegant Universe
+Brian Green
+9780393338102
+Nonfiction
+376544
+92517
+1
+Harry Potter and the Sorcerer's Stone
+J.K. Rowling
+9780590353403
+Fiction
+35986584
+8050690
+1
+Harry Potter and the Chamber of Secrets
+J.K. Rowling
+9780439064866
+Fiction
+13764657
+3107146
+1
+Harry Potter and the Prisoner of Azkaban
+J.K. Rowling
+9780439136358
+Fiction
+14832369
+3245595
+1
+Harry Potter and the Goblet of Fire
+J.K. Rowling
+0439139597
+Fiction
+13323613
+2921845
+1
+Harry Potter and the Order of the Phoenix
+J.K. Rowling
+9780439358064
+Fiction
+12660215
+2813381
+1
+Harry Potter and the Half-Blood Prince
+J.K. Rowling
+9780439784542
+Fiction
+12462102
+2726937
+1
+Harry Potter and the Deathly Hallows
+J.K. Rowling
+9780545010221
+Fiction
+14406172
+3124983
+1
+The Doomsday Calculation
+William Poundstone
+9780316440707
+Nonfiction
+738
+199
+1
+Parable of the Sower
+Octavia E. Butler
+9780446675505
+Fiction
+417641
+99914
+1
+Swann's Way
+Marcel Proust
+9780142437964
+Fiction
+220494
+53779
+1
+Villette
+Charlotte Bronte
+9781707289134
+Romance
+242207
+64246
+1
+Astrophysics for People in a Hurry
+Neil De Grasse Tyson
+9780393609394
+Nonfiction
+569812
+140003
+1
+How to be a Victorian
+Ruth Goodman
+9780871404855
+Nonfiction
+23121
+5479
+1
+1984
+George Orwell
+9780451524935
+Fiction
+15161821
+3618573
+1
+Animal Farm
+George Orwell
+9780451526342
+Fiction
+12354370
+3111932
+0
+The Fellowship of the Ring
+J.R.R. Tolkien
+9780547928210
+Fiction
+11035185
+2525214
+1
+Fahrenheit 451
+Ray Bradbury
+9781451673319
+Fiction
+7658161
+1924161
+1
+The Book Thief
+Mark Zusak
+9780375842207
+Fiction
+9092026
+2075805
+1
+The Little Prince
+Antoine de Saint-Exupéry
+9780156012195
+Fiction
+6984713
+1620583
+1
+The Giver
+Lois Lowry
+9780385732550
+Fiction
+8323301
+2015327
+1
+The Kite Runner
+Khaled Hosseini
+9781594631931
+Fiction
+11532231
+2669498
+1
+The Fault in Our Stars
+John Green
+9780142424179
+Fiction
+4076784
+162372
+1
+Twilight
+Stephenie Meyer
+9780316038379
+Romance
+5501699
+111592
+1
+To Kill a Mockingbird
+Harper Lee
+9780446310789
+Fiction
+5035781
+99625
+1
+Holes
+Louis Sachar
+9780440414803
+Fiction
+1059187
+22297
+1
+The Catcher in the Rye
+J. D. Salinger
+9780316769174
+Fiction
+11434610
+3001210
+1
+One Piece 3
+Eiichiro Oda
+9783646704235
+Fiction
+24736651
+5601610
+1
+Testing Book
+Elise 
+1234567
+Nonfiction
+0
+0
+1
+The Quantum Challenge
+George Greenstein, Arthur G. Zajonc
+076372470X
+Nonfiction
+0
+0
+1
+Not Matilda
+Not Roald Dahl
+1234567
+Fiction
+0
+0
+1
