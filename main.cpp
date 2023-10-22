@@ -1,16 +1,5 @@
 // Program Name: Library_Simulation.cpp
 
-// Programmer_1 Name: Catherine Xu
-// Programmer_1 ID: 1869259
-// Programmer_2 Name: Elise Zur
-// Programmer_2 ID: 1851550
-// Programmer_3 Name: Maddie Ananda Subramanian
-// Programmer_3 ID: 1662198
-// Programmer_4 Name: Visitxay Hanmonty
-// Programmer_4 ID: 1834966
-// Programmer_5 Name: Ayra Jafri
-// Programmer_5 ID: 1895238
-
 #include <iostream>
 #include <fstream>
 #include <string>
